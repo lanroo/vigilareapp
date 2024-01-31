@@ -1,7 +1,6 @@
 # vigilareapp
 
-## README do Projeto - Aplicativo de Serviços Domiciliares
-
+## Aplicativo de Serviços Domiciliares - VIGILARE
 ### Descrição Geral
 Este projeto consiste no desenvolvimento de um aplicativo móvel destinado a conectar pessoas que precisam de serviços domiciliares (como cuidados com idosos, crianças, animais de estimação ou gerenciamento de residências) a prestadores de serviço qualificados e verificados. O modelo é inspirado em plataformas bem-sucedidas como Airbnb e Uber, com foco na segurança, confiabilidade e qualidade dos serviços oferecidos.
 
